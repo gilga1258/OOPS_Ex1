@@ -1,4 +1,4 @@
-package Ticketprice;
+package ex1;
 
 import java.util.Scanner;
 
@@ -37,3 +37,4 @@ public class Ticketprice {
         input.close();
     }
 }
+
